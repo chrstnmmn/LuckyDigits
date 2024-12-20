@@ -30,7 +30,7 @@
 ### Code snippets
 ---
 > Checking the range:
-> ![Checking the range..](./checkingtherange.png "Checking the range.")
+> ![Checking the range..](./CHECKINGTHERANGE.png "Checking the range.")
 >
 > Input error handling:
 > ![Input error handling..](./InputErrorHandling.png "Input error handling.")
